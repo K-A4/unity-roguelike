@@ -10,4 +10,5 @@ You can play this game [on this page](https://k-aa.itch.io/doomedcorpses).  In t
 # Assets
 
 For sprite assets i wrote a little script for blender that automaticly renders model from 4 sides this saved me a lot of time
+
 ![spritesheet](Assets/Sprites/Monsters/BugBearSheet.png "spritesheet")
