@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef7716fd7bc4914fb38d48dce0b7d0a, type: 3}
+  m_Name: RoomObjects
+  m_EditorClassIdentifier: 
+  DistributionCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0.02155494
+      outSlope: 0.02155494
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.26562485
+    - serializedVersion: 3
+      time: 0.7497654
+      value: 0.2486661
+      inSlope: 0.98245305
+      outSlope: 0.98245305
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.44217268
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 5.390102
+      outSlope: 5.390102
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.12462341
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  ObjectList:
+  - {fileID: 3224996180692998642, guid: aa5ba011675403e4dbcbb60cf828436a, type: 3}
+  - {fileID: 7988901142044938385, guid: 68bb7e5236972634a9476a927788d1f7, type: 3}
+  - {fileID: 2688315668940626008, guid: af53b47f0c554c245a03b11f1b8ff7e5, type: 3}
+  - {fileID: 3967818037438058429, guid: 00da4cbbcf7522641abbe760edc0e848, type: 3}
+  - {fileID: 5229520873700209363, guid: 830444b1994120a45b21106010749260, type: 3}

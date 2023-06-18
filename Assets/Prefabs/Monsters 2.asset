@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef7716fd7bc4914fb38d48dce0b7d0a, type: 3}
+  m_Name: Monsters 2
+  m_EditorClassIdentifier: 
+  DistributionCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.7826232
+      value: 0.26017034
+      inSlope: 0.77263564
+      outSlope: 0.77263564
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.75762784
+    - serializedVersion: 3
+      time: 0.85027224
+      value: 0.51170003
+      inSlope: 2.3789902
+      outSlope: 2.3789902
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.12774543
+      outWeight: 1
+    - serializedVersion: 3
+      time: 0.9124521
+      value: 0.79756093
+      inSlope: 3.3742878
+      outSlope: 8.089712
+      tangentMode: 1
+      weightedMode: 2
+      inWeight: 0.5476172
+      outWeight: 0.6074067
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 17.86068
+      outSlope: 17.86068
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.20495737
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  ObjectList:
+  - {fileID: 9074738966001856572, guid: fbfb7cc7f1b83b441b40aa929d78a43f, type: 3}
+  - {fileID: 2942764394087034703, guid: 82588c3cf76e54c40a44f548a7cf79c5, type: 3}
+  - {fileID: 5689505060321256356, guid: d806bf556d1685a42b11adea2c49fc89, type: 3}
+  - {fileID: 3098570008792083480, guid: e6295336e32c7b64c9ec9956d15e2c76, type: 3}
+  - {fileID: 3455159446567421341, guid: 4fb2dcfe2cd64d64a9cb423ed70766c8, type: 3}
+  - {fileID: 7539403658139726944, guid: c43bedb8383800945a2925281549d331, type: 3}

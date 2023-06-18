@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef7716fd7bc4914fb38d48dce0b7d0a, type: 3}
+  m_Name: ContainerItems
+  m_EditorClassIdentifier: 
+  DistributionCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.31996453
+      value: 0.18570063
+      inSlope: 0.2233396
+      outSlope: 0.2233396
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.7559274
+      value: 0.3803293
+      inSlope: 0.13897794
+      outSlope: 0.13897794
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.18416792
+      outWeight: 0.3679963
+    - serializedVersion: 3
+      time: 0.91192424
+      value: 0.53010607
+      inSlope: 2.4132714
+      outSlope: 2.4132714
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  ObjectList:
+  - {fileID: 1020347533029471299, guid: ea4e6060e379c6f4480eaceb2d994127, type: 3}
+  - {fileID: 6283468538615511112, guid: 96f6e5e19e3d33a46945ff5baf6990be, type: 3}
+  - {fileID: 5970032063291566871, guid: 379386812b660b04db9b16a912ab2a99, type: 3}
+  - {fileID: 2789870054248637812, guid: 5b80abab18261954a98705cd8424492d, type: 3}
+  - {fileID: 450483295543083506, guid: 501398a09397280408d6c45d7cc089ef, type: 3}
+  - {fileID: 1182355273857958140, guid: 99d2caba38eb5814a962f20b01133cb5, type: 3}
+  - {fileID: 1973209706463888946, guid: 3251a2b335208d441b53171a35b68c94, type: 3}
+  - {fileID: 1973209706463888946, guid: cae898914c5217c49b0c9d715e1bf174, type: 3}
+  - {fileID: 450483295543083506, guid: 501398a09397280408d6c45d7cc089ef, type: 3}
+  - {fileID: 6450784412201896887, guid: 46f354bb8ad899841b69b300aadc37c4, type: 3}
+  - {fileID: 1011888459799404301, guid: 0b2cf985ff39dfe4d884339878dbdc83, type: 3}
+  - {fileID: 2789870054248637812, guid: 5b80abab18261954a98705cd8424492d, type: 3}
+  - {fileID: 1973209706463888946, guid: 3251a2b335208d441b53171a35b68c94, type: 3}
+  - {fileID: 9055662399468464940, guid: 4fb39e0f2fc78b84cb54e60ffbe3a97f, type: 3}
+  - {fileID: 8753060760906404040, guid: f18a2b6b00a77ce4a97e386b1d4e154f, type: 3}
+  - {fileID: 1973209706463888946, guid: cae898914c5217c49b0c9d715e1bf174, type: 3}
+  - {fileID: 1973209706463888946, guid: 3251a2b335208d441b53171a35b68c94, type: 3}
+  - {fileID: 1973209706463888946, guid: cae898914c5217c49b0c9d715e1bf174, type: 3}
+  - {fileID: 3364621636811505082, guid: 2d534f69cc329864497f4ed43a7cb1e9, type: 3}
